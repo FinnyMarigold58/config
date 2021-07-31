@@ -36,8 +36,8 @@ module.exports = {
   santa: "santa claus",
   alpha: "alpha werewolf",
   aww: "alpha werewolf",
-  gww: "guardian werewolf",
-  kww: "kitten werewolf",
+  gww: "guardian wolf",
+  kww: "kitten wolf",
   jww: "junior werewolf",
   sww: "shadow wolf",
   ww: "werewolf",
@@ -53,7 +53,7 @@ module.exports = {
   arso: "arsonist",
   bb: "bomber",
   corr: "corruptor",
-  Illu: "Illusionist",
+  illu: "illusionist",
   sk: "serial killer",
   acc: "accomplice",
   sl: "sect leader",
@@ -61,5 +61,6 @@ module.exports = {
   hh: "headhunter",
   mort: "mortician",
   dc: "dreamcatcher",
-  prog: "prognosticator"
+  prog: "prognosticator",
+ nww: "nightmare werewolf"
 }
